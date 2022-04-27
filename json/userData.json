@@ -1,0 +1,18 @@
+[
+  {
+    "userName": "admin",
+    "sex": "男",
+    "age": 25,
+    "mobile": 123456,
+    "mailbox": "xxxxx",
+    "password": "123456"
+  },
+  {
+    "userName": "root",
+    "sex": "男",
+    "age": 25,
+    "mobile": 123456,
+    "mailbox": "xxxxx",
+    "password": "123456"
+  }
+]
